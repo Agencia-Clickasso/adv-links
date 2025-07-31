@@ -10,7 +10,7 @@ export default function LinktreeProfile() {
           <div className="relative w-20 h-20 mx-auto mb-4">
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-yellow-400 to-yellow-500 p-1">
               <Image
-                src="/placeholder.svg?height=72&width=72&text=Profile"
+                src="/profile-photo.png"
                 alt="Lucimeire Xavier Advocacia"
                 width={72}
                 height={72}
@@ -19,8 +19,8 @@ export default function LinktreeProfile() {
             </div>
           </div>
           <h1 className="text-xl font-semibold text-white mb-1">Lucimeire Xavier Advocacia</h1>
-          <p className="text-gray-300 text-sm mb-1">Advogado</p>
-          <p className="text-gray-400 text-xs">@edporto.br</p>
+          <p className="text-gray-300 text-sm mb-1">Advogada</p>
+          <p className="text-gray-400 text-xs">@dra.lucimeirexavier</p>
         </div>
 
         {/* Navigation */}
@@ -80,31 +80,7 @@ export default function LinktreeProfile() {
             </div>
           </Link>
 
-          <Link href="#" className="block">
-            <div className="bg-slate-700/30 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-slate-600/30 transition-colors border border-slate-600/20">
-              <div className="flex items-center gap-4">
-                <div className="bg-slate-600/50 p-3 rounded-xl border border-slate-500/30">
-                  <div className="text-blue-400 text-lg font-bold">f</div>
-                </div>
-                <div>
-                  <div className="text-gray-400 text-[10px] uppercase tracking-widest font-medium">SOCIAL</div>
-                  <div className="text-white text-base font-normal">Facebook</div>
-                </div>
-              </div>
-              <div className="text-orange-500">
-                <svg width="12" height="20" viewBox="0 0 12 20" fill="currentColor">
-                  <path
-                    d="M2 18L10 10L2 2"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    fill="none"
-                  />
-                </svg>
-              </div>
-            </div>
-          </Link>
+
 
           <Link href="#" className="block">
             <div className="bg-slate-700/30 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-slate-600/30 transition-colors border border-slate-600/20">
