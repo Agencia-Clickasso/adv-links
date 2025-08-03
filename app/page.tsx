@@ -51,7 +51,7 @@ export default function LinktreeProfile() {
           <Link href="#" className="block">
             <div className="bg-slate-700/30 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-slate-600/30 transition-colors border border-slate-600/20">
               <div className="flex items-center gap-4">
-                <div className="bg-slate-600/50 p-3 rounded-xl border border-slate-500/30">
+                <div className="bg-slate-600/50 p-3 rounded-full border border-slate-500/30">
                   <svg width="16" height="16" viewBox="0 0 382 382" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <rect width="382" height="382" rx="34.555" ry="34.555" fill="#374252" />
                     <path
@@ -85,7 +85,7 @@ export default function LinktreeProfile() {
           <Link href="#" className="block">
             <div className="bg-slate-700/30 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-slate-600/30 transition-colors border border-slate-600/20">
               <div className="flex items-center gap-4">
-                <div className="bg-slate-600/50 p-3 rounded-xl border border-slate-500/30">
+                <div className="bg-slate-600/50 p-3 rounded-full border border-slate-500/30">
                   <div className="text-yellow-400">
                                         <svg viewBox="0 -3 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" fill="currentColor">
                       <g id="SVGRepo_bgCarrier" strokeWidth="0"/>
@@ -139,7 +139,7 @@ export default function LinktreeProfile() {
           <Link href="#" className="block">
             <div className="bg-slate-700/30 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-slate-600/30 transition-colors border border-slate-600/20">
               <div className="flex items-center gap-4">
-                <div className="bg-slate-600/50 p-3 rounded-xl border border-slate-500/30">
+                <div className="bg-slate-600/50 p-3 rounded-full border border-slate-500/30">
                   <div className="text-yellow-400">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                       <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
