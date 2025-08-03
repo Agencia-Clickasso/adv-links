@@ -18,16 +18,16 @@ export default function LinktreeProfile() {
               />
             </div>
           </div>
-          <h1 className="text-xl font-semibold text-white mb-1">Lucimeire Xavier Advocacia</h1>
-          <p className="text-gray-300 text-sm mb-1">Advogada</p>
-          <p className="text-gray-400 text-xs">@dra.lucimeirexavier</p>
+          <h1 className="text-xl font-semibold mb-1" style={{ color: "#FFFBD7" }}>Lucimeire Xavier Advocacia</h1>
+          <p className="text-sm mb-1" style={{ color: "#FFFBD7" }}>Advogada</p>
+          <p className="text-xs" style={{ color: "#FFFBD7" }}>@dra.lucimeirexavier</p>
         </div>
 
         {/* Navigation */}
         <div className="flex justify-center mb-6">
           <div className="flex">
-            <button className="text-white text-sm px-4 py-1 border-b-2 border-white">Links Úteis</button>
-            <button className="text-gray-400 text-sm px-4 py-1 ml-6">Sobre</button>
+            <button className="text-sm px-4 py-1 border-b-2" style={{ color: "#FFFBD7", borderColor: "#FFFBD7" }}>Links Úteis</button>
+            <button className="text-sm px-4 py-1 ml-6" style={{ color: "#FFFBD7" }}>Sobre</button>
           </div>
         </div>
 
@@ -35,7 +35,7 @@ export default function LinktreeProfile() {
         <div className="bg-slate-800/40 backdrop-blur-sm rounded-xl p-3 flex items-center justify-between hover:bg-slate-700/40 transition-colors cursor-pointer mb-4">
           <div className="flex items-center gap-3 flex-1">
             <span className="bg-orange-500 text-white text-[10px] px-2 py-0.5 rounded-full font-medium">LINK</span>
-            <span className="text-white text-sm font-medium">Acesse Site Oficial</span>
+            <span className="text-sm font-medium" style={{ color: "#FFFBD7" }}>Acesse Site Oficial</span>
           </div>
           <Image
             src="/placeholder.svg?height=60&width=80&text=Website"
@@ -61,8 +61,8 @@ export default function LinktreeProfile() {
                   </svg>
                 </div>
                 <div>
-                  <div className="text-gray-400 text-[10px] uppercase tracking-widest font-medium">SOCIAL</div>
-                  <div className="text-white text-base font-normal">LinkedIn</div>
+                  <div className="text-[10px] uppercase tracking-widest font-medium" style={{ color: "#FFFBD7" }}>SOCIAL</div>
+                  <div className="text-base font-normal" style={{ color: "#FFFBD7" }}>LinkedIn</div>
                 </div>
               </div>
               <div className="text-orange-500">
@@ -117,8 +117,8 @@ export default function LinktreeProfile() {
                   </div>
                 </div>
                 <div>
-                  <div className="text-gray-400 text-[10px] uppercase tracking-widest font-medium">SOCIAL</div>
-                  <div className="text-white text-base font-normal">YouTube</div>
+                  <div className="text-[10px] uppercase tracking-widest font-medium" style={{ color: "#FFFBD7" }}>SOCIAL</div>
+                  <div className="text-base font-normal" style={{ color: "#FFFBD7" }}>YouTube</div>
                 </div>
               </div>
               <div className="text-orange-500">
@@ -149,8 +149,8 @@ export default function LinktreeProfile() {
                   </div>
                 </div>
                 <div>
-                  <div className="text-gray-400 text-[10px] uppercase tracking-widest font-medium">SOCIAL</div>
-                  <div className="text-white text-base font-normal">Instagram</div>
+                  <div className="text-[10px] uppercase tracking-widest font-medium" style={{ color: "#FFFBD7" }}>SOCIAL</div>
+                  <div className="text-base font-normal" style={{ color: "#FFFBD7" }}>Instagram</div>
                 </div>
               </div>
               <div className="text-orange-500">
@@ -171,14 +171,14 @@ export default function LinktreeProfile() {
 
         {/* Footer Signature */}
         <div className="text-center mb-6">
-          <div className="text-2xl text-gray-300 mb-2" style={{ fontFamily: "cursive" }}>
+          <div className="text-2xl mb-2" style={{ fontFamily: "cursive", color: "#FFFBD7" }}>
             Lucimeire Xavier Advocacia
           </div>
           <div className="h-px bg-gray-600 mb-4"></div>
         </div>
 
         {/* Copyright */}
-        <div className="text-center text-[10px] text-gray-500 leading-tight">
+        <div className="text-center text-[10px] leading-tight" style={{ color: "#FFFBD7" }}>
           © {new Date().getFullYear()} Todos os Direitos Reservados |<br />
           Política de Privacidade
         </div>
