@@ -37,13 +37,6 @@ export default function LinktreeProfile() {
             <span className="text-white text-[10px] px-2 py-0.5 rounded-full font-medium" style={{ backgroundColor: "#B80618" }}>LINK</span>
             <span className="text-sm font-medium" style={{ color: "#FFFBD7" }}>Acesse Site Oficial</span>
           </div>
-          <Image
-            src="/lucimeire-logo.png"
-            alt="Lucimeire Xavier Advocacia"
-            width={80}
-            height={60}
-            className="rounded object-contain ml-2"
-          />
         </div>
 
         {/* Social Media */}
@@ -140,8 +133,14 @@ export default function LinktreeProfile() {
 
         {/* Footer Signature */}
         <div className="text-center mb-6">
-          <div className="text-2xl mb-2" style={{ fontFamily: "cursive", color: "#FFFBD7" }}>
-            Lucimeire Xavier Advocacia
+          <div className="mb-2">
+            <Image
+              src="/lucimeire-logo.png"
+              alt="Lucimeire Xavier Advocacia"
+              width={200}
+              height={60}
+              className="mx-auto object-contain"
+            />
           </div>
           <div className="h-px bg-gray-600 mb-4"></div>
         </div>
