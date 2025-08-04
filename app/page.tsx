@@ -156,7 +156,7 @@ export default function LinktreeProfile() {
             </div>
           </Link>
 
-          <Link href="#" className="block">
+          <Link href="https://www.youtube.com/@lucimeirexavier4203" className="block">
             <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
               <div className="flex items-center gap-4">
                 <div className="bg-[#161F24] p-3 rounded-full border-2 border-[#CEA886] flex items-center justify-center shadow-inner">
