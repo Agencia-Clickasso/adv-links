@@ -3,7 +3,7 @@ import Link from "next/link"
 
 export default function LinktreeProfile() {
   return (
-    <div className="min-h-screen" style={{ background: "#161F24" }}>
+    <div className="min-h-screen" style={{ background: "#090B0F" }}>
       <div className="max-w-sm mx-auto px-6 py-8">
         {/* Profile Section */}
         <div className="text-center mb-6">
