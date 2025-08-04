@@ -18,8 +18,8 @@ export default function LinktreeProfile() {
               />
             </div>
           </div>
-          <h1 className="text-xl font-semibold mb-1" style={{ color: "#FFFBD7" }}>Lucimeire Xavier Advocacia</h1>
-          <p className="text-sm mb-1" style={{ color: "#FFFBD7" }}>Advogada</p>
+          <h1 className="text-xl font-semibold mb-1" style={{ color: "#FFFBD7" }}>Lucimeire Xavier</h1>
+          <p className="text-sm mb-1" style={{ color: "#FFFBD7" }}>Advogada Tributarista</p>
           <p className="text-xs" style={{ color: "#FFFBD7" }}>@dra.lucimeirexavier</p>
         </div>
 
