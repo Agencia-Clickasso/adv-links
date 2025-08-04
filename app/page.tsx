@@ -43,38 +43,6 @@ export default function LinktreeProfile() {
 
         {/* Social Media */}
         <div className="space-y-3 mb-8">
-          <Link href="https://www.linkedin.com/in/lucimeire-xavier-b8b18aa0/" className="block">
-            <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
-              <div className="flex items-center gap-4">
-                <div className="bg-[#161F24] p-3 rounded-full border-2 border-[#CEA886] flex items-center justify-center shadow-inner">
-                  <svg width="16" height="16" viewBox="0 0 382 382" fill="none" xmlns="http://www.w3.org/2000/svg" className="text-white">
-                    <path
-                      d="M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472V330.654z"
-                      fill="#CEA886"
-                    />
-                  </svg>
-                </div>
-                <div>
-                  <div className="text-base font-normal" style={{ color: "#CEA886" }}>LinkedIn</div>
-                </div>
-              </div>
-              <div style={{ color: "#B80618" }}>
-                <svg width="12" height="20" viewBox="0 0 12 20" fill="currentColor">
-                  <path
-                    d="M2 18L10 10L2 2"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    fill="none"
-                  />
-                </svg>
-              </div>
-            </div>
-          </Link>
-
-
-
           <Link href="https://api.whatsapp.com/send/?phone=551111967586911&text&type=phone_number&app_absent=0" className="block">
             <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
               <div className="flex items-center gap-4">
@@ -114,6 +82,36 @@ export default function LinktreeProfile() {
                 </div>
                 <div>
                   <div className="text-base font-normal" style={{ color: "#CEA886" }}>Instagram</div>
+                </div>
+              </div>
+              <div style={{ color: "#B80618" }}>
+                <svg width="12" height="20" viewBox="0 0 12 20" fill="currentColor">
+                  <path
+                    d="M2 18L10 10L2 2"
+                    stroke="currentColor"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    fill="none"
+                  />
+                </svg>
+              </div>
+            </div>
+          </Link>
+
+          <Link href="https://www.linkedin.com/in/lucimeire-xavier-b8b18aa0/" className="block">
+            <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
+              <div className="flex items-center gap-4">
+                <div className="bg-[#161F24] p-3 rounded-full border-2 border-[#CEA886] flex items-center justify-center shadow-inner">
+                  <svg width="16" height="16" viewBox="0 0 382 382" fill="none" xmlns="http://www.w3.org/2000/svg" className="text-white">
+                    <path
+                      d="M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472V330.654z"
+                      fill="#CEA886"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <div className="text-base font-normal" style={{ color: "#CEA886" }}>LinkedIn</div>
                 </div>
               </div>
               <div style={{ color: "#B80618" }}>
