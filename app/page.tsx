@@ -137,8 +137,8 @@ export default function LinktreeProfile() {
             <Image
               src="/lucimeire-logo.png"
               alt="Lucimeire Xavier Advocacia"
-              width={200}
-              height={60}
+              width={100}
+              height={30}
               className="mx-auto object-contain"
             />
           </div>
