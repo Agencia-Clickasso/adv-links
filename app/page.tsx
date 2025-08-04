@@ -8,7 +8,7 @@ export default function LinktreeProfile() {
         {/* Profile Section */}
         <div className="text-center mb-6">
           <div className="relative w-20 h-20 mx-auto mb-4">
-            <div className="absolute inset-0 rounded-full bg-gradient-to-r from-yellow-400 to-yellow-500 p-1">
+            <div className="absolute inset-0 rounded-full p-1" style={{ background: "#CEA886" }}>
               <Image
                 src="/profile-photo.png"
                 alt="Lucimeire Xavier Advocacia"
