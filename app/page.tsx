@@ -60,7 +60,7 @@ export default function LinktreeProfile() {
                   </svg>
                 </div>
                 <div>
-                  <div className="text-base font-normal" style={{ color: "#FFFBD7" }}>LinkedIn</div>
+                  <div className="text-base font-normal" style={{ color: "#CEA886" }}>LinkedIn</div>
                 </div>
               </div>
               <div className="text-orange-500">
@@ -90,7 +90,7 @@ export default function LinktreeProfile() {
                   </svg>
                 </div>
                 <div>
-                  <div className="text-base font-normal" style={{ color: "#FFFBD7" }}>YouTube</div>
+                  <div className="text-base font-normal" style={{ color: "#CEA886" }}>YouTube</div>
                 </div>
               </div>
               <div className="text-orange-500">
@@ -119,7 +119,7 @@ export default function LinktreeProfile() {
                   </svg>
                 </div>
                 <div>
-                  <div className="text-base font-normal" style={{ color: "#FFFBD7" }}>Instagram</div>
+                  <div className="text-base font-normal" style={{ color: "#CEA886" }}>Instagram</div>
                 </div>
               </div>
               <div className="text-orange-500">
