@@ -38,11 +38,11 @@ export default function LinktreeProfile() {
             <span className="text-sm font-medium" style={{ color: "#FFFBD7" }}>Acesse Site Oficial</span>
           </div>
           <Image
-            src="/placeholder.svg?height=60&width=80&text=Website"
-            alt="Site Oficial"
+            src="/lucimeire-logo.png"
+            alt="Lucimeire Xavier Advocacia"
             width={80}
             height={60}
-            className="rounded object-cover ml-2"
+            className="rounded object-contain ml-2"
           />
         </div>
 
