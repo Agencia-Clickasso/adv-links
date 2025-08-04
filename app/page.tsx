@@ -49,7 +49,7 @@ export default function LinktreeProfile() {
         {/* Social Media */}
         <div className="space-y-3 mb-8">
           <Link href="#" className="block">
-            <div className="bg-gradient-to-br from-slate-700/40 to-slate-800/60 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:from-slate-600/50 hover:to-slate-700/70 transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
+            <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
               <div className="flex items-center gap-4">
                 <div className="bg-[#161F24] p-3 rounded-full border-2 border-white flex items-center justify-center shadow-inner">
                   <svg width="16" height="16" viewBox="0 0 382 382" fill="none" xmlns="http://www.w3.org/2000/svg" className="text-white">
@@ -81,7 +81,7 @@ export default function LinktreeProfile() {
 
 
           <Link href="#" className="block">
-            <div className="bg-gradient-to-br from-slate-700/40 to-slate-800/60 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:from-slate-600/50 hover:to-slate-700/70 transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
+            <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
               <div className="flex items-center gap-4">
                 <div className="bg-[#161F24] p-3 rounded-full border-2 border-white flex items-center justify-center shadow-inner">
                   <svg width="16" height="16" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="white">
@@ -109,7 +109,7 @@ export default function LinktreeProfile() {
           </Link>
 
           <Link href="#" className="block">
-            <div className="bg-gradient-to-br from-slate-700/40 to-slate-800/60 backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:from-slate-600/50 hover:to-slate-700/70 transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
+            <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
               <div className="flex items-center gap-4">
                 <div className="bg-[#161F24] p-3 rounded-full border-2 border-white flex items-center justify-center shadow-inner">
                   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
