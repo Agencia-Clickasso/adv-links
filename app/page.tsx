@@ -34,7 +34,7 @@ export default function LinktreeProfile() {
         {/* Official Site */}
         <div className="bg-slate-800/40 backdrop-blur-sm rounded-xl p-3 flex items-center justify-between hover:bg-slate-700/40 transition-colors cursor-pointer mb-4">
           <div className="flex items-center gap-3 flex-1">
-            <span className="bg-orange-500 text-white text-[10px] px-2 py-0.5 rounded-full font-medium">LINK</span>
+            <span className="text-white text-[10px] px-2 py-0.5 rounded-full font-medium" style={{ backgroundColor: "#B80618" }}>LINK</span>
             <span className="text-sm font-medium" style={{ color: "#FFFBD7" }}>Acesse Site Oficial</span>
           </div>
           <Image
@@ -63,7 +63,7 @@ export default function LinktreeProfile() {
                   <div className="text-base font-normal" style={{ color: "#CEA886" }}>LinkedIn</div>
                 </div>
               </div>
-              <div className="text-orange-500">
+              <div style={{ color: "#B80618" }}>
                 <svg width="12" height="20" viewBox="0 0 12 20" fill="currentColor">
                   <path
                     d="M2 18L10 10L2 2"
@@ -93,7 +93,7 @@ export default function LinktreeProfile() {
                   <div className="text-base font-normal" style={{ color: "#CEA886" }}>YouTube</div>
                 </div>
               </div>
-              <div className="text-orange-500">
+              <div style={{ color: "#B80618" }}>
                 <svg width="12" height="20" viewBox="0 0 12 20" fill="currentColor">
                   <path
                     d="M2 18L10 10L2 2"
@@ -122,7 +122,7 @@ export default function LinktreeProfile() {
                   <div className="text-base font-normal" style={{ color: "#CEA886" }}>Instagram</div>
                 </div>
               </div>
-              <div className="text-orange-500">
+              <div style={{ color: "#B80618" }}>
                 <svg width="12" height="20" viewBox="0 0 12 20" fill="currentColor">
                   <path
                     d="M2 18L10 10L2 2"
