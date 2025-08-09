@@ -203,6 +203,33 @@ export default function LinktreeProfile() {
                   </div>
                 </div>
               </Link>
+
+              <Link href="https://www.tiktok.com/@lucimeirexavier" className="block">
+                <div className="bg-[#1A212B] backdrop-blur-sm rounded-2xl p-4 flex items-center justify-between hover:bg-[#232A34] transition-all duration-300 border border-slate-500/30 shadow-lg hover:shadow-xl transform hover:-translate-y-1">
+                  <div className="flex items-center gap-4">
+                    <div className="bg-[#161F24] p-3 rounded-full border-2 border-[#CEA886] flex items-center justify-center shadow-inner">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="#CEA886">
+                        <path d="M9 0h1.98c.144.715.54 1.617 1.235 2.512C12.895 3.389 13.797 4 15 4v2c-1.753 0-3.07-.814-4-1.829V11a5 5 0 1 1-5-5v2a3 3 0 1 0 3 3z"/>
+                      </svg>
+                    </div>
+                    <div>
+                      <div className="text-base font-normal" style={{ color: "#CEA886" }}>TikTok</div>
+                    </div>
+                  </div>
+                  <div style={{ color: "#B80618" }}>
+                    <svg width="12" height="20" viewBox="0 0 12 20" fill="currentColor">
+                      <path
+                        d="M2 18L10 10L2 2"
+                        stroke="currentColor"
+                        strokeWidth="3"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        fill="none"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </Link>
             </div>
           </>
         )}
