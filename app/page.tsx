@@ -252,10 +252,10 @@ export default function LinktreeProfile() {
                 À frente do escritório está Lucimeire Xavier, advogada com 15 anos de experiência na área de
                 compras de indiretos e matéria-prima em grandes empresas. Essa trajetória corporativa garante
                 uma compreensão profunda da gestão empresarial e dos impactos tributários no dia a dia dos
-                negócios. Pós-graduada em Direito Processual e com especialização em Direito Tributário,
+                negócios. Pós-graduanda em Direito Processual e com especialização em Direito Tributário,
                 Lucimeire alia conhecimento técnico, visão estratégica e comprometimento absoluto com cada caso.
               </p>
-              <p>
+              <p>ß
                 Nosso trabalho vai além de aplicar a lei: buscamos entender a realidade e os objetivos do
                 cliente, desenvolver estratégias tributárias personalizadas e atuar com ética, clareza e
                 rapidez para proteger e fortalecer o patrimônio empresarial.
